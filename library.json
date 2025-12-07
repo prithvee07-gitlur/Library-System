@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Python by discord",
+        "author": "jeff",
+        "isbn": "8932-2131-3213",
+        "status": "available"
+    },
+    {
+        "title": "Ikigai",
+        "author": "H\u00e9ctor Garc\u00eda and Francesc Miralles",
+        "isbn": "7567",
+        "status": "available"
+    },
+    {
+        "title": "harry Potter",
+        "author": "JK Rollings",
+        "isbn": "999",
+        "status": "available"
+    }
+]
